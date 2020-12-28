@@ -45,7 +45,7 @@ export default class Compiler extends Component {
                 method: "POST",
                 headers: {
                     "x-rapidapi-host": "judge0.p.rapidapi.com",
-                    "x-rapidapi-key": "20b9671e5amshf01376d4ae69405p1eb2d3jsn5e2231cecb58", // Get yours for free at https://rapidapi.com/hermanzdosilovic/api/judge0
+                    "x-rapidapi-key": "", // Get yours for free at https://rapidapi.com/hermanzdosilovic/api/judge0
                     "content-type": "application/json",
                     accept: "application/json",
                 },
@@ -78,7 +78,7 @@ export default class Compiler extends Component {
                     method: "GET",
                     headers: {
                         "x-rapidapi-host": "judge0.p.rapidapi.com",
-                        "x-rapidapi-key": "20b9671e5amshf01376d4ae69405p1eb2d3jsn5e2231cecb58", // Get yours for free at https://rapidapi.com/hermanzdosilovic/api/judge0
+                        "x-rapidapi-key": "", // Get yours for free at https://rapidapi.com/hermanzdosilovic/api/judge0
                         "content-type": "application/json",
                     },
                 });
